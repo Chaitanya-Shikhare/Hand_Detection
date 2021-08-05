@@ -21,8 +21,5 @@ http://docs.opencv.org/modules/imgproc/doc/miscellaneous_transformations.html
 [4] OpenCv Documentation - Morphological Operations http://docs.opencv.org/trunk/doc/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html
 [5] Suzuki, S. and Abe, K., Topological Structural Analysis of Digitized Binary Images by Border Following. CVGIP 30 1, pp 32-46 (1985)
 
-For any question related to the code please contact via email:
-sasha7064570@gmail.com
 
-Sasha Gazman
  
